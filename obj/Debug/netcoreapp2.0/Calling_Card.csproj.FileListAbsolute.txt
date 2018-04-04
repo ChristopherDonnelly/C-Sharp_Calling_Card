@@ -1,0 +1,11 @@
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\bin\Debug\netcoreapp2.0\Calling_Card.deps.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\bin\Debug\netcoreapp2.0\Calling_Card.runtimeconfig.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\bin\Debug\netcoreapp2.0\Calling_Card.runtimeconfig.dev.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\bin\Debug\netcoreapp2.0\Calling_Card.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\bin\Debug\netcoreapp2.0\Calling_Card.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\obj\Debug\netcoreapp2.0\Calling_Card.csproj.CoreCompileInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\obj\Debug\netcoreapp2.0\Calling_Card.AssemblyInfoInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\obj\Debug\netcoreapp2.0\Calling_Card.AssemblyInfo.cs
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\obj\Debug\netcoreapp2.0\Calling_Card.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\obj\Debug\netcoreapp2.0\Calling_Card.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\ASP_NET\Calling_Card\obj\Debug\netcoreapp2.0\Calling_Card.csprojResolveAssemblyReference.cache
